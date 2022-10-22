@@ -1,0 +1,13 @@
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\bin\Debug\zar atma oyunu.exe.config
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\bin\Debug\zar atma oyunu.exe
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\bin\Debug\zar atma oyunu.pdb
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar atma oyunu.csproj.AssemblyReference.cache
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar atma oyunu.csproj.SuggestedBindingRedirects.cache
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar_atma_oyunu.Form1.resources
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar_atma_oyunu.Properties.Resources.resources
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar atma oyunu.csproj.GenerateResource.cache
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar atma oyunu.csproj.CoreCompileInputs.cache
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar atma oyunu.exe
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar atma oyunu.pdb
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar_atma_oyunu.Form2.resources
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar_atma_oyunu.Form3.resources
