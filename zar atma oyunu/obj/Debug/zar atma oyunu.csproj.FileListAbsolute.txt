@@ -11,3 +11,4 @@ C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar atma o
 C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar atma oyunu.pdb
 C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar_atma_oyunu.Form2.resources
 C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar_atma_oyunu.Form3.resources
+C:\C# Projects\Zar Atma Oyunu\zar atma oyunu\zar atma oyunu\obj\Debug\zar_atma_oyunu.Form4.resources

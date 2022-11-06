@@ -45,8 +45,6 @@ namespace zar_atma_oyunu
             this.Hide();
             Form2 frm = new Form2();
             frm.Show();
-
-            //burada verileri göndericez
         }
 
         private void Form3_FormClosing(object sender, FormClosingEventArgs e)

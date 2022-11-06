@@ -35,5 +35,7 @@ namespace zar_atma_oyunu
             else
                 return koneAndKtwoDraw;
         }
+
+
     }
 }

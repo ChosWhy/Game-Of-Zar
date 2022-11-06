@@ -70,17 +70,22 @@ namespace zar_atma_oyunu
             settingBtn.BackgroundImage = Properties.Resources.settings3;
         }
 
-
-
-        private void tekOyunculuBtn_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Geçici bir süre tek oyunculu seçeneğimiz kapalıdır!", "Bilgilendirme Penceresi");
-        }
-
         private void exitBtn_Click(object sender, EventArgs e)
         {
             this.Close();
             Application.Exit();
+        }
+
+        private void tekOyunculuBtn_Click(object sender, EventArgs e)
+        {
+            Form4 form4 = new Form4();
+            this.Hide();
+            form4.Show();
+        }
+
+        private void settingBtn_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ayarlar menusu henuz aktif değildir", "Uyarı!");
         }
     }
 }

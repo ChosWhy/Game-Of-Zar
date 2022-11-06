@@ -98,6 +98,7 @@
             this.settingBtn.Size = new System.Drawing.Size(73, 53);
             this.settingBtn.TabIndex = 5;
             this.settingBtn.UseVisualStyleBackColor = false;
+            this.settingBtn.Click += new System.EventHandler(this.settingBtn_Click);
             this.settingBtn.MouseLeave += new System.EventHandler(this.settingBtn_MouseLeave);
             this.settingBtn.MouseHover += new System.EventHandler(this.settingBtn_MouseHover);
             // 
